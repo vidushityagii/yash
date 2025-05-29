@@ -33,7 +33,7 @@ export default function Home() {
   }
 
   // Google Drive CV link
-  const cvDownloadLink = "https://drive.google.com/drive/folders/1zg2FRgLeZuO8AL75PLzBUaEKDE2jona7?usp=sharing"
+  const cvDownloadLink = "/yash.pdf"
 
     const testimonials = [
     {
