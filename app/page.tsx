@@ -33,7 +33,7 @@ export default function Home() {
   }
 
   // Google Drive CV link
-  const cvDownloadLink = "https://drive.google.com/file/d/1234567890/view?usp=sharing"
+  const cvDownloadLink = "https://drive.google.com/drive/folders/1zg2FRgLeZuO8AL75PLzBUaEKDE2jona7?usp=sharing"
 
     const testimonials = [
     {
@@ -401,7 +401,7 @@ export default function Home() {
   className="rounded-lg overflow-hidden border-2 border-transparent transition-all duration-300"
 >
   <img
-   src="/IMG_1975.heic"
+   src="/IMG_1975.png"
     alt="Project Image"
     className="w-full h-auto object-cover"
   />
@@ -475,7 +475,7 @@ export default function Home() {
                   transition={{ duration: 0.3 }}
                 >
                   <Image
-                    src="about.png"
+                    src="IMG_0472.png"
                     alt="Yash Agrahari"
                     width={500}
                     height={500}
@@ -545,7 +545,7 @@ My work has consistently assisted brands in engaging more effectively, sharpenin
           <SectionHeading
             badge="My Portfolio"
             title="Featured Projects"
-            description="A showcase of my most impactful work across various industries and visual styles"
+            description="A showcase of my most impactful work acro ss various industries and visual styles"
             highlightWords={["Projects"]}
           />
 
